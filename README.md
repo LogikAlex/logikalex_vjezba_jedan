@@ -1,4 +1,5 @@
 # logikalex_vjezba_jedan
+<<<<<<< HEAD
 upoznavanje s osnovama gita
 
 ## 1. Što je Visual Studio Code i za što se najčešće koristi?
@@ -35,3 +36,5 @@ upoznavanje s osnovama gita
 - koristimo **git reset**, na GitHub-u možemo otići na stariju verziju
 ## 16.  Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?
 - Koristimo **git status**
+=======
+>>>>>>> 7f5d649ff74c4d4026f4d416843325a8f17b638f
