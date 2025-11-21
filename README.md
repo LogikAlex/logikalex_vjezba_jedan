@@ -1,7 +1,5 @@
 # logikalex_vjezba_jedan
-# Aleksandar Zecevic
-
-## upoznavanje s osnovama gita
+upoznavanje s osnovama gita
 
 ## 1. Što je Visual Studio Code i za što se najčešće koristi?
 - VS Code je program za uređivanje koda i koristi se za programiranje i u raznim projektima
