@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # logikalex_vjezba_jedan
-<<<<<<< HEAD
 upoznavanje s osnovama gita
 
-=======
->>>>>>> ae2c9b8029150c05f5d29fc7bd90fe6222d1a2db
 ## 1. Što je Visual Studio Code i za što se najčešće koristi?
 - VS Code je program za uređivanje koda i koristi se za programiranje i u raznim projektima
 ## 2. Kako se zove panel u kojem vidiš sve datoteke i mape svog projekta?
